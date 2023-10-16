@@ -3,4 +3,5 @@ This is my first file for project
 void main()
 {
 printf("Hello world!!!");
+printf("\n this is the c programm");
 }
